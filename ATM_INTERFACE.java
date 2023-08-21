@@ -1,5 +1,3 @@
-package Task_2_codesoft;
-
 import java.util.Scanner;
 
 class BankAccount {
